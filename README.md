@@ -1,1 +1,1 @@
-These are scripts that I have created for assignments
+This is a repository of scripts that I have created
